@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+   	 <reviewimage>
+   		 <reviewimagepage>
+   			 <is_enabled>1</is_enabled>
+   			 <number_images>5</number_images>
+   		 </reviewimagepage>
+   	 </reviewimage>
+    </default>
+</config>
